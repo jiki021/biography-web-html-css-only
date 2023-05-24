@@ -1,0 +1,65 @@
+
+.table-pemain{
+
+}
+.nama{
+	font-weight: 700;
+	background-color: EEEEEE;
+}
+.negara{
+	font-weight: 700;
+	background-color: EEEEEE;
+}
+.lahir{
+	font-weight: 700;
+	background-color: EEEEEE;
+}
+.tahun-bermain{
+	font-weight: 700;
+	background-color: EEEEEE;
+}
+.posisi{
+	font-weight: 700;
+	background-color: EEEEEE;
+}
+.judul-tim{
+	font-weight: 700;
+	background-color: EEEEEE;
+}
+.meninggal{
+	font-weight: 700;
+	background-color: EEEEEE;
+}
+.nama-panggilan{
+	font-weight: 700;
+	background-color: EEEEE;
+}
+.trivia{
+	text-align: center;
+}
+.deskripsi{
+	position: absolute;
+	left: 320px;
+	top: 0px;
+	width: 40%;
+	float: none;
+	text-indent: 0,5in;
+}
+.pencapaian{
+	width: 25%;
+	float: right;
+}
+.table-pemain{
+	width: 30%;
+	float: left;
+}
+.rekor{
+	color: 	#552583;
+}
+
+p{
+	text-indent: 50px;
+}
+.legacy{
+	color: 	#552583;
+}
